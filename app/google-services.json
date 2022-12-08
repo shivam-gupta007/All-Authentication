@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "897413170319",
+    "project_id": "all-authentication-oo7",
+    "storage_bucket": "all-authentication-oo7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897413170319:android:d241afc80daeb7ba11dcfa",
+        "android_client_info": {
+          "package_name": "com.shivamgupta.allauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897413170319-h38nhissc52ri2lie8b2ag80e53b9h8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shivamgupta.allauthentication",
+            "certificate_hash": "d2f5403a489096f3f7248af5642b423ba1558ab9"
+          }
+        },
+        {
+          "client_id": "897413170319-ap8a6mnvvarqs0phdpn6ifb2cvgq7b4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2yazFbgDlHj_AzXqX2p6qnTsbWJd89Ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897413170319-ap8a6mnvvarqs0phdpn6ifb2cvgq7b4h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
